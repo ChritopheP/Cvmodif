@@ -1,0 +1,29 @@
+<CV>
+
+	<Personne>
+
+		<Nom>Giroud</Nom>
+		<Prénom>Clément</Prénom>
+		<Adresse></Adresse>
+	</Personne>
+
+	<Diplomes>
+		<LISTDiplomes>
+			<Diplome1></Diplome1>
+			<Diplome2></Diplome2>
+		</LISTDiplomes>
+	</Diplomes>
+
+	<CPT>
+		<LIST1>
+			<CPT1></CPT1>
+		</LIST1>
+	</CPT>
+
+	<EXP>
+		<LIST1>
+			<EXP1></EXP1>
+		</LIST1>
+	</EXP>
+
+</CV>

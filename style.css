@@ -1,0 +1,22 @@
+head {font-family: Verdana;
+}
+
+body {background-color: #2F4542;
+      font-family: Courier;
+}
+
+nav a {color: #EC3F00";
+       font-size: 1.3em;
+}
+
+#logo img   {width: 100px;
+       height: 100px;
+       border: 3px solid black;
+       top: 30px;
+       right: 30px;
+       text-align: right;
+       position: right;	
+}
+
+h1 {color: #E93E00;
+}
